@@ -49,8 +49,8 @@
                         <th>Distance:</th>
                         <th>Time:</th>
                         <th>Height Difference:</th>
-                        <th>Action:</th>
                         <th>Available:</th>
+                        <th>Action:</th>
                     </tr>
                 </thead>
                 <?php
